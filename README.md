@@ -1,5 +1,5 @@
 # 
-This Privacy Policy (“Policy”) describes the policies and procedures on the collection, use, disclosure and protection of your information when you use our website located at swiggy.com, or the Swiggy mobile application (collectively, “Swiggy Platform”) made available by Bundl Technologies Private Limited (“Jstore”, “Company”, “we”, “us” and “our”),  a private company established under the laws of India having its registered office at No.55 Sy No.8-14, Ground Floor, I&J Block, Embassy Tech Village, Outer Ring Road, Devarbisanahalli, Bengaluru - 560103
+This Privacy Policy (“Policy”) describes the policies and procedures on the collection, use, disclosure and protection the Jstore mobile application (collectively, “Jstore Platform”) made available by Bundl Technologies Private Limited (“Jstore”, “Company”, “we”, “us” and “our”),  a private company established under the laws of India having its registered office at No.55 Sy No.8-14, Ground Floor, I&J Block, Embassy Tech Village, Outer Ring Road, Devarbisanahalli, Bengaluru - 560103
 
 The terms “you” and “your” refer to the user of the Jstore Platform. The term “Services” refers to any services offered by Swiggy whether on the Jstore Platform or otherwise.
 
